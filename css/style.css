@@ -23,6 +23,16 @@
     background-color: beige;
   }
 
+  .luckyNumber{
+    width: 10%;
+    height: 200px;
+    margin-left: 0;
+    position: absolute;
+    top: 0;
+    /* background-color: #00bfff; */
+    text-align: center;
+  }
+
   .sticky-navbar {
     position: sticky;
     top: 0;
@@ -93,4 +103,11 @@ img {
 
   .profilePic{
     border-radius: 50%;
+  }
+
+  .dice {
+    display: inline-block;
+    text-align: center;
+    
+  
   }
